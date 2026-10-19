@@ -1,0 +1,6 @@
+{
+  "name": "CLASSIC SHOES - متجر الأحذية الكلاسيكية الفاخرة",
+  "description": "متجر أحذية كلاسيكية فاخرة مستوحى من الحرفية الأوروبية الراقية، يقدم أفخر الأحذية الجلدية الرجالية والنسائية المصنوعة يدوياً بأعلى معايير الأناقة والجودة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
